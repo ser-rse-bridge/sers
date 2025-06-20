@@ -7,6 +7,28 @@ sub-sites of <ser-rse-bridge.github.io> with styling consistent to the main site
 put any content we want on the main site, there may be some situations where it is useful to put
 some content in a separate repository for management purposes.
 
+## Install & serve locally
+
+To encapsulate the dependencies for building this site locally, you can use `conda` (or as used here: `mamba`).
+
+1. Create a new `conda` environment with the name `jekyll` and the main dependencies from the environment definition file `conda-env.yml`:
+
+`mamba env create -n jekyll --file conda-env.yml`
+
+2. Activate the environment:
+
+`mamba activate jekyll`
+
+3. Install the website dependencies using the Ruby `bundler`:
+
+`bundle install`
+
+4. Serve the website on `http://127.0.0.1:4000`:
+
+`bundle exec jekyll serve` (optionally using `-w` to watch changes and update live)
+
+5. Stop the server with `CTRL` + `C`
+
 ## Usage
 
 To use this template, simply use the GitHub web user interface to create a new repo using this one 
