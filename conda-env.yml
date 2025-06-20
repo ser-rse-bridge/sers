@@ -1,0 +1,10 @@
+name: jekyll
+channels:
+  - conda-forge
+dependencies:
+  - ca-certificates
+  - cmake
+  - compilers
+  - openssl
+  - pkg-config
+  - ruby
