@@ -7,7 +7,8 @@ sidebar:
     text: |
         - **Workshop Proposal Acceptance Notification:**  
         Mon ***28 Jul 2025*** 23:59
-    ---
+  - nav: sidebar-sers
+---
 
 # 1st International Workshop on Software Engineering and Research Software (SERS'26)
 
@@ -69,9 +70,7 @@ Workshop paper submissions due [EXTENDED]: Tue 19 January, 2021 (AoE time)
 Notification to authors: Mon 22 February, 2021 (AoE time)
 Camera-ready copies due: Fri 12 March, 2021 (AoE time) -->
 
-## Organizing Committee
-
-Workshop Organizers & Program Committee:
+## Organizing Committee & Program Committee
 
 - Jeffrey C. Carver - University of Alabama
 - Myra Cohen - Iowa State University
