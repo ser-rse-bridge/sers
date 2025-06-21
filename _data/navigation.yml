@@ -1,4 +1,4 @@
-sidebar-sers:
+sers:
   - title: "SERS'26"
     url: "#1st-international-workshop-on-software-engineering-and-research-software-sers26"
   - title: "Program"
@@ -9,4 +9,6 @@ sidebar-sers:
     url: "#submission-guidelines"
   - title: "Organizers"
     url: "#organizing-committee"
-
+main:
+  - title: "SERS'26"
+  - url: "#1st-international-workshop-on-software-engineering-and-research-software-sers26"

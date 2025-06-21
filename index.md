@@ -7,7 +7,7 @@ sidebar:
     text: |
         - **Workshop Proposal Acceptance Notification:**  
         Mon ***28 Jul 2025*** 23:59
-  - nav: sidebar-sers
+  - nav: sers
 ---
 
 # 1st International Workshop on Software Engineering and Research Software (SERS'26)
