@@ -21,11 +21,8 @@
 title: Software Engineering and Research Software (SERS)
 # email: bernholdtde@ornl.gov # We really don't have a single point of email contact for the seminar as a whole
 description: >- # this means to ignore newlines until "baseurl:"
-  This website collects outputs and resources to help bridge between
-  the software engineering research (SER) and research software engineering (RSE)
-  communities.  This effort originated in the April 2024 Dagstuhl Seminar 
-  "[Research Software Engineering: Bridging Knowledge Gaps](https://www.dagstuhl.de/24161)" 
-  (number 24161).
+  Official website for the "Software Engineering and Research Software" workshop,
+  submitted to ICSE 2026.
 baseurl: "/sers" # the subpath of your site, e.g. /blog
 url: "https://ser-rse-bridge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
