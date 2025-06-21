@@ -31,30 +31,42 @@ As part of its program, the workshop provides examples of successful projects in
 As such, the workshop is also intended to further develop the *community of collaborating software engineering researchers and research software engineers* that was catalyzed by the Dagstuhl seminar.
 
 
-## Planned program
+## Tentative program
 
 ### Session 1
 
-
+- 09:00 - 09:30: **Welcome & introduction to SERS'26**
+- 09:30 - 10:00: **"Introduction to research software engineering"** (*Invited talk*)
+- 10:00 - 10:15: **"How do research software engineering groups at universities work?"** (*Invited talk*)
+- 10:15 - 10:30: **"How do research software engineers work?"** (*Invited talk*)
+- 10:30 - 11:00: Coffee break
 
 ### Session 2
 
+- 11:00 - 12:00: **Plenary presentations** (*Accepted submissions*)
+- 12:00 - 12:20: **Plenary lightning talks** (*Accepted submissions*)
+- 12:20 - 12:30: **Formation of breakout groups**
+- 12:30 - 14:00: Lunch break
+
 ### Session 3
+
+- 14:00 - 15:30: **Work in breakout groups**
+- 15:30 - 16:00: Coffee break
 
 ### Session 4
 
-**TODO**
-{: .notice--warning}
+- 16:00 - 17:00: **Reporting by breakout groups**
+- 17:00 - 17:20: **"The future of SERS"** (*Plenary discussion*)
+- 17:20 - 17:30: **Closing**  
+17:30: Workshop end
 
 ## Call for papers
 
-**TODO**
-{: .notice--warning}
+The call for papers will be published, if the workshop is accepted to ICSE 2026, by 26 August.
 
-## Submission guidelines
+### Submission guidelines
 
-**TODO**
-{: .notice--warning}
+Detailed submission guidelines will be provided, if the workshop is accepted to ICSE 2026, by 26 August 2025.
 
 <!-- From BOKSS'21 website
 Prospective participants are invited to submit two types of contributions:
@@ -70,7 +82,17 @@ Workshop paper submissions due [EXTENDED]: Tue 19 January, 2021 (AoE time)
 Notification to authors: Mon 22 February, 2021 (AoE time)
 Camera-ready copies due: Fri 12 March, 2021 (AoE time) -->
 
-## Organizing Committee & Program Committee
+## Organizing Committee
+
+- Jeffrey C. Carver - University of Alabama
+- Myra Cohen - Iowa State University
+- Stephan Druskat - German Aerospace Center (DLR)
+- Nasir Eisty - University of Tennessee, Knoxville
+- Alfredo Goldman - São Paulo University
+- Daniel S. Katz - NCSA, University of Illinois Urbana-Champaign
+- Reed Milewicz - Sandia National Lab
+
+## Program Committee
 
 - Jeffrey C. Carver - University of Alabama
 - Myra Cohen - Iowa State University
