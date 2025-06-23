@@ -1,11 +1,11 @@
-# sub-site-template
+# Website for the workshop "Software Engineering and Research Software"
+
+Submitted to ICSE 2026.
 
 ## Introduction
 
-This repository is meant to serve as a template (in the GitHub sense) to facilitate setting up
-sub-sites of <ser-rse-bridge.github.io> with styling consistent to the main site.  While we can
-put any content we want on the main site, there may be some situations where it is useful to put
-some content in a separate repository for management purposes.
+This repository is based on a template (in the GitHub sense) to facilitate setting up
+sub-sites of <ser-rse-bridge.github.io> with styling consistent to the main site.
 
 ## Install & serve locally
 
@@ -29,25 +29,12 @@ To encapsulate the dependencies for building this site locally, you can use `con
 
 5. Stop the server with `CTRL` + `C`
 
-## Usage
+## Deploy
 
-To use this template, simply use the GitHub web user interface to create a new repo using this one 
-(ser-rse-bridge/sub-site-template) as a template, and then adjust a few configuration variables and
-repository settings.
-
-In `_config.yml`:
-* `baseurl` should be set to the sub-site's top level
-* `repository` should set to the new org/repo.  This variable is used in "edit this file on GitHub" links.
-* `footer.links.url` for the "GitHub" label should be set to the full URL for the new repo.  This variable is used in the GitHub link in the footer.
-
-In the repository Settings > Pages > Build and Deployment section:
-* Set Source to `GitHub Actions` to use the `.github/workflows/jekyll.yml` action that's included in the repository.  Using an action is necessary because the site uses Jekyl plugins that are not supported in the "Classic Pages" build approach.
+Pushing to `main` will trigger a GitHub Action that builds and deploys the website to https://ser-rse-bridge.github.io/sers/.
 
 ## Notes
 
-This repository contains a modified version of the Minimal Mistakes file `_includes/masthead.html` in which the masthead links (on the logo, title, and subtitle) are directed to the parent site rather than the top of the current site.  This makes the masthead link behavior consistent between the main site and the sub-site.  If you don't want this behavior, delete the modified `masthead.html` file and it will revert to using the Minimal Mistakes default `masthead.html`.  
-
-Also, nothing has been done about navigation links (which are also part of the masthead) since the main site doesn't have any.  If we do start using navigation links, this will require some attention for sub-sites.
-
-Finally, note that if changes are made to the styling of the main site, they'll also need to be made here and in any active sub-sites.  There's no automation that
-can magically identify and propagate such changes for us.  Unfortunately.
+This repository originally contained a modified version of the Minimal Mistakes file `_includes/masthead.html` in which the masthead links (on the logo, title, and subtitle) are directed to the parent site rather than the top of the current site. This makes the masthead link behavior consistent between the main site and the sub-site.
+The files has been removed to isolate the page from the main repository until we know if the workshop has been accepted.
+If it is accepted, the behavior should be re-added, e.g., from [this commit](https://github.com/ser-rse-bridge/sers/blob/6bb6cc484d58a1c75705ec671c97d6e2c56a8c34/_includes/masthead.html).
