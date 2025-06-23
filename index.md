@@ -43,7 +43,8 @@ As such, the workshop is also intended to further develop the *community of coll
 
 ### Session 2
 
-- 11:00 - 12:20: **Plenary presentations** (*Accepted submissions*)
+- 11:00 - 12:00: **Plenary presentations** (*Accepted submissions*)
+- 12:00 - 12:20: "Catalyzing Collaborations and Building Bridges between Research Software Engineers and Software Engineering Researchers" (*Invited talk*)
 - 12:20 - 12:30: **Formation of breakout groups**
 - 12:30 - 14:00: Lunch break
 
