@@ -19,17 +19,15 @@ sidebar:
 
 <div class="notice--info" style="text-size: 100%;">{{ notice | markdownify }}</div>
 
+Software enables critical research in a variety of scientific and engineering disciplines. Yet those who write this "research software" are often disconnected from the software engineering research (SER) community, whose research does not focus on the unique challenges of research software.
 
-Large amounts of software are being written for critical research purposes, yet those who write that software are often disconnected from the software engineering research community. And the software engineering research community is not building techniques that solve unique challenges for them.
+This initial **Software Engineering and Research Software (SERS)** workshop aims to bring the particular needs of research software engineering to, and those who write that software into, the ICSE community.
 
-This initial **Software Engineering and Research Software (SERS)** workshop aims to bring the particular needs of research software engineering to, and those who write that software into, the ICSE community. 
+SERS'26 builds on [Dagstuhl Seminar 24161](https://dagstuhl.de/24161), "Research Software Engineering: Bridging Knowledge Gaps," held in April 2024, which brought together software engineering researchers and research software engineers to facilitate better understanding and initiate collaborations. By extending this focus, our workshop aims to help software engineering researchers gain knowledge about research software, its developers and maintainers, and the processes they use.
 
-**SERS'26** builds on [Dagstuhl Seminar 24161]([Dagstuhl Seminar 24161](https://www.dagstuhl.de/24161)), "Research Software Engineering: Bridging Knowledge Gaps," held in April 2024, which brought together software engineering researchers and research software engineers to facilitate better understanding and initiate collaborations. By extending this focus, our workshop aims to help software engineering researchers gain knowledge about research software, its developers and maintainers, and the processes they use. 
-
-As part of its program, the workshop provides examples of successful projects involving both software engineering research and research software. These further highlight opportunities for software engineering research in studying this area in more detail: new research challenges that need innovative solutions, new opportunities to apply and study software engineering practices. 
+As part of its program, the workshop provides examples of successful projects involving both software engineering research and research software to further highlight opportunities in studying this area in more detail: new research challenges that need innovative solutions, new opportunities to apply and study software engineering practices. 
 
 As such, the workshop is also intended to further develop the *community of collaborating software engineering researchers and research software engineers* that was catalyzed by the Dagstuhl seminar.
-
 
 ## Tentative program
 
@@ -84,10 +82,11 @@ Camera-ready copies due: Fri 12 March, 2021 (AoE time) -->
 
 ## Organizing Committee
 
-- Jeffrey C. Carver - University of Alabama
-- Myra Cohen - Iowa State University
-- Stephan Druskat - German Aerospace Center (DLR)
-- Nasir Eisty - University of Tennessee, Knoxville
-- Alfredo Goldman - São Paulo University
-- Daniel S. Katz - NCSA, University of Illinois Urbana-Champaign
-- Reed Milewicz - Sandia National Lab
+- Jeffrey C. Carver - University of Alabama, USA
+- Neil Chue Hong - University of Edinburgh, Scotland
+- Myra B. Cohen - Iowa State University, USA
+- Stephan Druskat - German Aerospace Center (DLR), Germany (*Proceedings Chair*)
+- Nasir Eisty - University of Tennessee, USA
+- Alfredo Goldman - São Paulo University, Brazil
+- Daniel S. Katz - NCSA, University of Illinois Urbana-Champaign, USA
+- Reed Milewicz - Sandia National Lab, USA
