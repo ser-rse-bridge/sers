@@ -82,11 +82,11 @@ Camera-ready copies due: Fri 12 March, 2021 (AoE time) -->
 
 ## Organizing Committee
 
-- Jeffrey C. Carver - University of Alabama, USA
-- Neil Chue Hong - University of Edinburgh, Scotland
-- Myra B. Cohen - Iowa State University, USA
-- Stephan Druskat - German Aerospace Center (DLR), Germany (*Proceedings Chair*)
-- Nasir Eisty - University of Tennessee, USA
-- Alfredo Goldman - São Paulo University, Brazil
-- Daniel S. Katz - NCSA, University of Illinois Urbana-Champaign, USA
-- Reed Milewicz - Sandia National Lab, USA
+- Jeffrey C. Carver [<i class="fab fa-brands fa-orcid" aria-hidden="true"></i>](https://orcid.org/0000-0002-7824-9151) - University of Alabama, USA
+- Neil Chue Hong [<i class="fab fa-brands fa-orcid" aria-hidden="true"></i>](https://orcid.org/0000-0002-8876-7606) - University of Edinburgh, Scotland
+- Myra B. Cohen [<i class="fab fa-brands fa-orcid" aria-hidden="true"></i>](https://orcid.org/0000-0003-2443-2425) - Iowa State University, USA
+- Stephan Druskat [<i class="fab fa-brands fa-orcid" aria-hidden="true"></i>](https://orcid.org/0000-0003-4925-7248) - German Aerospace Center (DLR), Germany (*Proceedings Chair*)
+- Nasir Eisty [<i class="fab fa-brands fa-orcid" aria-hidden="true"></i>](https://orcid.org/0000-0001-5228-4664) - University of Tennessee, USA
+- Alfredo Goldman [<i class="fab fa-brands fa-orcid" aria-hidden="true"></i>](https://orcid.org/0000-0001-5746-4154) - São Paulo University, Brazil
+- Daniel S. Katz [<i class="fab fa-brands fa-orcid" aria-hidden="true"></i>](https://orcid.org/0000-0001-5934-7525) - NCSA, University of Illinois Urbana-Champaign, USA
+- Reed Milewicz [<i class="fab fa-brands fa-orcid" aria-hidden="true"></i>](https://orcid.org/0000-0002-1701-0008) - Sandia National Lab, USA
